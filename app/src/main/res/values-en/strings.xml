@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">President (draft)</string>
+    <string name="nav_country">Country</string>
+    <string name="nav_economy">Economy</string>
+    <string name="nav_ministries">Government</string>
+    <string name="nav_army">Army</string>
+    <string name="nav_world">World</string>
+    <string name="sec_economy_sub">Taxes, resources, trade, construction</string>
+    <string name="sec_ministries_sub">Ministries, cabinet, services</string>
+    <string name="sec_army_sub">Troops, facilities, war</string>
+    <string name="sec_world_sub">Map, diplomacy, the UN</string>
+    <string name="hud_treasury">Treasury</string>
+    <string name="unit_per_day">per day</string>
+    <string name="unit_per_month">per mo.</string>
+    <string name="unit_thousand_short">k</string>
+    <string name="unit_million_short">M</string>
+    <string name="unit_billion_short">B</string>
+    <string name="speed_pause">Pause</string>
+    <string name="speed_x1">Speed 1x</string>
+    <string name="speed_x2">Speed 2x</string>
+    <string name="speed_x4">Speed 4x</string>
+    <string name="res_food">Food</string>
+    <string name="res_gold">Gold</string>
+    <string name="res_iron">Iron</string>
+    <string name="res_oil">Oil</string>
+    <string name="res_uranium">Uranium</string>
+    <string name="res_energy">Energy</string>
+    <string name="country_pl">Poland</string>
+    <string name="country_unknown">Unknown country</string>
+    <string name="home_budget_title">Budget per month</string>
+    <string name="budget_income">Income</string>
+    <string name="budget_expense">Expenses</string>
+    <string name="budget_balance">Balance</string>
+    <string name="runway_days">The treasury lasts %1$d days</string>
+    <string name="home_people_title">Population and approval</string>
+    <string name="people_population">Population</string>
+    <string name="people_approval">Approval</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="home_sections_title">Sections</string>
+    <string name="home_country_title">Country</string>
+    <string name="stub_body">This screen is still under construction.</string>
+    <string name="stub_milestone">Planned for stage %1$s</string>
+    <string name="stub_unknown">Unknown screen</string>
+    <string name="action_back">Back</string>
+    <string name="screen_s01">Main menu</string>
+    <string name="screen_s02">Choose a country</string>
+    <string name="screen_s03">Create your president</string>
+    <string name="screen_s04">Difficulty and start</string>
+    <string name="screen_s05">Main screen</string>
+    <string name="screen_s06">President rating</string>
+    <string name="screen_s07">Taxes and budget</string>
+    <string name="screen_s08">Loans</string>
+    <string name="screen_s09">Production and resources</string>
+    <string name="screen_s10">Trade</string>
+    <string name="screen_s11">Resource market</string>
+    <string name="screen_s12">Construction</string>
+    <string name="screen_s13">Energy</string>
+    <string name="screen_s14">Ministries</string>
+    <string name="screen_s15">Ministry details</string>
+    <string name="screen_s16">Government and ministers</string>
+    <string name="screen_s17">Science and technology</string>
+    <string name="screen_s18">Army</string>
+    <string name="screen_s19">Training and equipment</string>
+    <string name="screen_s20">Military facilities</string>
+    <string name="screen_s21">Security services</string>
+    <string name="screen_s22">Nuclear program</string>
+    <string name="screen_s23">Spies and sabotage</string>
+    <string name="screen_s24">World map</string>
+    <string name="screen_s25">Country profile</string>
+    <string name="screen_s26">Diplomacy</string>
+    <string name="screen_s27">United Nations</string>
+    <string name="screen_s28">Declare war</string>
+    <string name="screen_s29">Battle</string>
+    <string name="screen_s30">Battle result</string>
+    <string name="screen_s31">Blockades and sanctions</string>
+    <string name="screen_s32">Religion</string>
+    <string name="screen_s33">Ideology and laws</string>
+    <string name="screen_s34">Event</string>
+    <string name="screen_s35">Event log</string>
+    <string name="screen_s36">World rankings</string>
+    <string name="screen_s37">Victory goals</string>
+    <string name="screen_s38">Game over</string>
+    <string name="screen_s39">Saves</string>
+    <string name="screen_s40">Settings</string>
+    <string-array name="months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+</resources>

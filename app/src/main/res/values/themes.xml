@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Цвет окна повторяет роль bg из replica/design/tokens.json, чтобы не мигало белым при запуске. -->
+    <color name="sim_bg">#0E1318</color>
+
+    <style name="Theme.Sim" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/sim_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

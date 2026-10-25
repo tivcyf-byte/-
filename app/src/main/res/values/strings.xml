@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Президент (черновик)</string>
+    <string name="nav_country">Страна</string>
+    <string name="nav_economy">Экономика</string>
+    <string name="nav_ministries">Власть</string>
+    <string name="nav_army">Армия</string>
+    <string name="nav_world">Мир</string>
+    <string name="sec_economy_sub">Налоги, ресурсы, торговля, стройка</string>
+    <string name="sec_ministries_sub">Министерства, правительство, службы</string>
+    <string name="sec_army_sub">Войска, объекты, война</string>
+    <string name="sec_world_sub">Карта, дипломатия, ООН</string>
+    <string name="hud_treasury">Казна</string>
+    <string name="unit_per_day">в день</string>
+    <string name="unit_per_month">за мес.</string>
+    <string name="unit_thousand_short">тыс.</string>
+    <string name="unit_million_short">млн</string>
+    <string name="unit_billion_short">млрд</string>
+    <string name="speed_pause">Пауза</string>
+    <string name="speed_x1">Скорость 1x</string>
+    <string name="speed_x2">Скорость 2x</string>
+    <string name="speed_x4">Скорость 4x</string>
+    <string name="res_food">Еда</string>
+    <string name="res_gold">Золото</string>
+    <string name="res_iron">Железо</string>
+    <string name="res_oil">Нефть</string>
+    <string name="res_uranium">Уран</string>
+    <string name="res_energy">Энергия</string>
+    <string name="country_pl">Польша</string>
+    <string name="country_unknown">Неизвестная страна</string>
+    <string name="home_budget_title">Бюджет за месяц</string>
+    <string name="budget_income">Доходы</string>
+    <string name="budget_expense">Расходы</string>
+    <string name="budget_balance">Баланс</string>
+    <string name="runway_days">Казны хватит на %1$d дн.</string>
+    <string name="home_people_title">Население и одобрение</string>
+    <string name="people_population">Население</string>
+    <string name="people_approval">Одобрение</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="home_sections_title">Разделы</string>
+    <string name="home_country_title">Страна</string>
+    <string name="stub_body">Этот экран пока в разработке.</string>
+    <string name="stub_milestone">Планируется на этапе %1$s</string>
+    <string name="stub_unknown">Неизвестный экран</string>
+    <string name="action_back">Назад</string>
+    <string name="screen_s01">Главное меню</string>
+    <string name="screen_s02">Выбор страны</string>
+    <string name="screen_s03">Создание президента</string>
+    <string name="screen_s04">Сложность и старт</string>
+    <string name="screen_s05">Главный экран</string>
+    <string name="screen_s06">Рейтинг президента</string>
+    <string name="screen_s07">Налоги и бюджет</string>
+    <string name="screen_s08">Кредиты</string>
+    <string name="screen_s09">Производство и ресурсы</string>
+    <string name="screen_s10">Торговля</string>
+    <string name="screen_s11">Рынок ресурса</string>
+    <string name="screen_s12">Строительство</string>
+    <string name="screen_s13">Энергетика</string>
+    <string name="screen_s14">Министерства</string>
+    <string name="screen_s15">Министерство</string>
+    <string name="screen_s16">Правительство и министры</string>
+    <string name="screen_s17">Наука и технологии</string>
+    <string name="screen_s18">Армия</string>
+    <string name="screen_s19">Обучение и техника</string>
+    <string name="screen_s20">Военные объекты</string>
+    <string name="screen_s21">Силовые службы</string>
+    <string name="screen_s22">Ядерная программа</string>
+    <string name="screen_s23">Шпионы и диверсии</string>
+    <string name="screen_s24">Карта мира</string>
+    <string name="screen_s25">Профиль страны</string>
+    <string name="screen_s26">Дипломатия</string>
+    <string name="screen_s27">ООН</string>
+    <string name="screen_s28">Объявление войны</string>
+    <string name="screen_s29">Бой</string>
+    <string name="screen_s30">Итог боя</string>
+    <string name="screen_s31">Блокады и санкции</string>
+    <string name="screen_s32">Религия</string>
+    <string name="screen_s33">Идеология и законы</string>
+    <string name="screen_s34">Событие</string>
+    <string name="screen_s35">Журнал событий</string>
+    <string name="screen_s36">Рейтинги мира</string>
+    <string name="screen_s37">Цели победы</string>
+    <string name="screen_s38">Итог игры</string>
+    <string name="screen_s39">Сохранения</string>
+    <string name="screen_s40">Настройки</string>
+    <string-array name="months_short">
+        <item>янв.</item>
+        <item>февр.</item>
+        <item>марта</item>
+        <item>апр.</item>
+        <item>мая</item>
+        <item>июн.</item>
+        <item>июл.</item>
+        <item>авг.</item>
+        <item>сент.</item>
+        <item>окт.</item>
+        <item>нояб.</item>
+        <item>дек.</item>
+    </string-array>
+</resources>
